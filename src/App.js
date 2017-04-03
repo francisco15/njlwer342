@@ -5,7 +5,7 @@ class App extends Component {
     super();
     
     this.state = {
-      tasks: ['Sacar la ropa', 'Hacer la cama', 'Leer un rato'],
+      tasks: ['sacar la ropa', 'hacer la cama', 'leer un rato'],
       taskInput: ''
     }
   }
